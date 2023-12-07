@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Minor_Project</string>
+    <string name="email_address"><b><i>EMAIL ADDRESS</i></b></string>
+    <string name="password"><b><i>Password</i></b></string>
+    <string name="Dont_have_a_account"><b><i><br>Do not have a account? \n</br>
+    <u>Register</u></i></b></string>
+
+    <string name="register"><b><i>REGISTER</i></b></string>
+    <string name="log_in">LOG IN</string>
+    <string name="forget_password">FORGET PASSWORD</string>
+    <string name="login"><b><i>LOGIN</i></b></string>
+    <string name="note_your_password_must_contain_6_letters">NOTE : YOUR PASSWORD MUST CONTAIN 6 LETTERS</string>
+    <string name="Register_btn">Register</string>
+    <string name="click_here_to_logout"><i><b><u>CLICK HERE TO LOGOUT</u></b></i></string>
+    <string name="mark_attendence"><i><b>MARK ATTENDENCE</b></i></string>
+    <string name="review_attendence"><i><b>REVIEW ATTENDENCE</b></i></string>
+    <string name="raise_a_query"><i><b>RAISE A QUERY</b></i></string>
+    <string name="todo">TODO</string>
+    <string name="raise_your_query"><i><b>RAISE YOUR QUERY</b></i></string>
+    <string name="to"><i><b>TO : </b></i></string>
+    <string name="subject"><i><b>SUBJECT :</b></i></string>
+    <string name="message"><i><b>MESSAGE</b></i></string>
+    <string name="send"><i><b>SEND</b></i></string>
+    <string name="mark_attendence_via_face_recognisation"><i><b>VIA FACE RECOGNISATION</b></i></string>
+    <string name="click_here_to_go_back"><i><b><u>Click Here To Go Back</u></b></i></string>
+    <string name="via_qr_scanner"><i><b>VIA QR SCANNER</b></i></string>
+    <string name="name"><i><b>Name : </b></i></string>
+    <string name="your_name">Your Name...</string>
+    <string name="enrollment_number"><i><b>ENROLLMENT NUMBER : </b></i></string>
+    <string name="your_subject">Your Subject</string>
+    <string name="get_location"><i><b>GET LOCATION</b></i></string>
+    <string name="detect_face"><i><b>DETECT FACE</b></i></string>
+    <string name="detect_qr_code"><i><b>DETECT QR CODE</b></i></string>
+    <string name="via_barcode_scanner"><i><b>VIA BARCODE SCANNER</b></i></string>
+    <string name="get_date"><i><b>GET DATE</b></i></string>
+    <string name="recognize_face"><i><b>RECOGNIZE FACE</b></i></string>
+    <string name="detect_image"><i><b>Detect Image</b></i></string>
+    <string name="your_attendence_has_been_marked_sucessfully_keep_up_with_your_daily_learnings"><i><b>YOUR ATTENDENCE HAS BEEN MARKED SUCESSFULLY!!. KEEP UP WITH YOUR DAILY LEARNINGS.</b></i></string>
+    <string name="attendance_marked"><i><b>ATTENDANCE MARKED!!</b></i></string>
+    <string name="wrong_credentials_entered_your_attendance_cannot_be_marked_please_try_again"><i><b>WRONG CREDENTIALS ENTERED YOUR ATTENDANCE CANNOT BE MARKED!! PLEASE TRY AGAIN.</b></i></string>
+    <string name="attendance_failed_to_mark"><i><b>ATTENDANCE FAILED TO MARK</b></i></string>
+    <string name="scan_barcode"><i><b>SCAN CODE</b></i></string>
+    <string name="review_attendance"><i><b>REVIEW ATTENDANCE</b></i></string>
+    <string name="enter_your_registered_email_address"><i><b>Enter Your Registered Email Address</b></i></string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="submit"><i><b>SUBMIT</b></i></string>
+    <string name="FORGET">TODO</string>
+    <string name="back_to_login_page"><i><b>Back To Login Page</b></i></string>
+</resources>

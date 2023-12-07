@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "990613322681",
+    "project_id": "login-register-attendence-sys",
+    "storage_bucket": "login-register-attendence-sys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990613322681:android:5ddc22f0a23f58a3c5d468",
+        "android_client_info": {
+          "package_name": "com.example.barcode_facerecognisation_based_attendence_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990613322681-bq4k847ndi46vfp9pmqpbold3ts3vgi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxM_c0osGc5hk8oHX0x9WDSUOt5w0GmA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990613322681-bq4k847ndi46vfp9pmqpbold3ts3vgi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990613322681:android:4212253497cc89eec5d468",
+        "android_client_info": {
+          "package_name": "com.example.minor_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990613322681-bq4k847ndi46vfp9pmqpbold3ts3vgi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxM_c0osGc5hk8oHX0x9WDSUOt5w0GmA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990613322681-bq4k847ndi46vfp9pmqpbold3ts3vgi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
